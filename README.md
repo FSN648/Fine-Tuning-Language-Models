@@ -16,7 +16,7 @@ LLaMA 3 8B : a decoder-only large language model pretrained on roughly 15 trilli
 For each method: model architecture, hyperparameters, training time, number of trainable parameters, and final accuracy are reported and compared.
 ## Background: Prompting Approaches
 
--Hard Prompting : fixed, human-readable natural language prompts, no parameter updates
+-Hard Prompting : fixed, human-readable natural language prompts, no parameter updates<br>
 -Soft Prompting : learned continuous prompt embeddings while the base model stays frozen
 
 ## Goal
